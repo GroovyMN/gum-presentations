@@ -1,6 +1,6 @@
 GUM Presentations 
 ====================================
-Presentations for Groovy Users of Minnesota. [http://groovy.mn](http://groovy.mn)
+Presentations for Groovy Users of Minnesota (GUM). [http://groovy.mn](http://groovy.mn)
 
 Adding Content
 ------------------------------------
